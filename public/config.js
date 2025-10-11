@@ -17,7 +17,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade perps up to 100× on-chain. Zero KYC. Zero limits. 100% control — only on Perp100.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Swap,Rewards,Vaults,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards,Vaults,Leaderboard",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
