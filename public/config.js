@@ -1,10 +1,11 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "perp100",
   "VITE_ORDERLY_BROKER_NAME": "Perp100",
+  "VITE_BROKER_EOA_ADDRESS": "0x58f37a6bf9b2f3734c734a1fc037153bc0477e49",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
   "VITE_ORDERLY_MAINNET_CHAINS": "8453,42161,10,56,900900900,1",
-  "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
+  "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "42161",
   "VITE_PRIVY_APP_ID": "",
   "VITE_PRIVY_LOGIN_METHODS": "email",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "false",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards,Vaults,Leaderboard",
   "VITE_CUSTOM_MENUS": "Jackpot100, https://www.perp100.com/jackpot100/",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#0a191c\"}"
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#0a191c\"}",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
