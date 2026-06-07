@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade perps up to 100× on-chain. Zero KYC. Zero limits. 100% control — only on Perp100.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Rewards,Vaults,Leaderboard",
+  "VITE_ENABLED_MENUS": "Trading,Swap,Portfolio,Markets,Rewards,Vaults,Leaderboard,Campaigns",
   "VITE_CUSTOM_MENUS": "Jackpot100, https://www.perp100.com/jackpot100/",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
@@ -37,5 +37,8 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00C896\",\"downColor\":\"#F7525F\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#0a191c\"}",
-  "VITE_ANALYTICS_SCRIPT": ""
+  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_SYMBOL_LIST": "",
+  "VITE_RESTRICTED_REGIONS": "",
+  "VITE_WHITELISTED_IPS": ""
 };
